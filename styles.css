@@ -1,0 +1,39 @@
+.Main {
+    color: blue;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sec {
+    color: rgb(255, 00, 00);
+    text-align: center;
+    font-size: 38px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.third {
+    color: #00ff00;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.four {
+    color: black;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 40%;
+}
